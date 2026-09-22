@@ -5,3 +5,6 @@ def order():
 
 def discount():
     print("discount upto 40%")
+
+def navrati_discount():
+    print("introduce dicount on order from 11th oct to 20th oct")
